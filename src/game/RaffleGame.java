@@ -20,7 +20,7 @@ public class RaffleGame {
     public void buildGui() {
 
 //        frame = new JFrame(this.getClass().getSimpleName());
-        frame = new JFrame(this.getClass().getSimpleName() + " (Modified)");
+        frame = new JFrame(this.getClass().getSimpleName() + " (Modified again)");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Box fieldBox = new Box(BoxLayout.Y_AXIS);
