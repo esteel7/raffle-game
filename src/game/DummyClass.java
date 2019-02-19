@@ -7,8 +7,12 @@ package game;
 
 /**
  *
- * @author Rodrigo
+ * @author Rodrigo Martínez
  */
 public class DummyClass {
-    
+
+    public void print() {
+        System.out.println("Hi buddies n.n");
+    }
+
 }
